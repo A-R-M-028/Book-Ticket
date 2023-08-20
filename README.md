@@ -103,4 +103,4 @@ but dont forget class component
 axios
 Package for api flexibility -> axios Globally fetch the data 1 time not every time --> 
 
-
+# This is complete Frontend project of online ticket or show booking using React, tailwind and TMDB API
